@@ -14,7 +14,9 @@
 /**************/
 
 body {
-	background-url: (https://ih0.redbubble.net/image.443305801.3746/ap,550x550,12x16,1,transparent,t.png);
+	background-image: url("https://ih0.redbubble.net/image.443305801.3746/ap,550x550,12x16,1,transparent,t.png");
+	font: 18px/1.4 $helvetica;
+	color: $blue;
 }
 
 html {
